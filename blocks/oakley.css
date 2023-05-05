@@ -1,0 +1,9 @@
+.oakley {
+  display: flex;
+  justify-content: center;
+}
+
+.two-columns__brief {
+  margin-right: 70px;
+  width: 175px;
+}
